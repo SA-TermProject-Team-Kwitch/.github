@@ -1,5 +1,4 @@
 # Software Architecture Term Project
-
 This is term project in software architecture class on 2023.
 We will build a simple broadcast platform using web.
 
@@ -10,3 +9,6 @@ We will build a simple broadcast platform using web.
 - express
 - WebRTC
 - mysql
+
+## Licence
+this project is licensed under the MIT license.
